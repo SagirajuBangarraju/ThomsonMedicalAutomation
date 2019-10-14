@@ -7,6 +7,8 @@ public class Day1 {
 	 public void firsttest()
 	 {
 		 System.out.println("Hello");
+		 System.out.println("Hai");
+		 System.out.println("Bye");
 		 Assert.assertTrue(true);
 	 }
 	 @Test
